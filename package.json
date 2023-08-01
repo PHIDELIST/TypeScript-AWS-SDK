@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^20.4.5"
+    "@aws-sdk/client-translate": "^3.379.1",
+    "@types/node": "^20.4.5",
+    "@types/prompt-sync": "^4.2.0",
+    "prompt-sync": "^4.2.0"
   }
 }
